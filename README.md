@@ -7,3 +7,11 @@ Internet Pockets are protocol-less, ephemeral, microdata stores. A pocket is rep
 Any data written to a pocket over UDP is considered as 'storing' the data there (and will overwrite any existing data). Any client connecting to the pocket over TCP is considered as 'fetching' the data there.
 
 Restarting the daemon wipes out the contents of all pockets.
+
+## License
+
+This project is licensed under the terms specified in the LICENSE file.
+
+## Author
+
+Created by Ali Mahouk
