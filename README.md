@@ -1,4 +1,4 @@
-# XP001: Internet Pockets
+# Internet Pockets
 
 What new possibilities would exist if we were to open unused ports on computers around the world and turn them into transient data repositories?
 
